@@ -1,4 +1,3 @@
-xxl is the best
 # BIT-Thesis v1.1
 # 北京理工大学硕士（博士）学位论文LaTeX模板
 
